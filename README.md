@@ -12,7 +12,7 @@
 
 - 🔥  Tech enthusiast
   
-- 🔭 Estudo no [Instituto Federal de Ciências e Tecnologia do Ceará - Campus Fortaleza](https://ifce.edu.br/fortaleza)
+- 🔭 i´m currenctly studying on [Instituto Federal de Ciências e Tecnologia do Ceará - Campus Fortaleza](https://ifce.edu.br/fortaleza)
 
 - 🔭 I’m currently studying **Java**
 
