@@ -16,7 +16,6 @@
 
 - 🔭 I’m currently studying **Java**
 
-- ⚡ Fun fact **I Have a Bad Feeling About This**
 
 <br/>
 
