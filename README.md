@@ -5,10 +5,30 @@
 
 <p>
      I'm Kelwin Jhackson Gonçalves de Moura, born in Fortaleza,
-     Ceará, Brazil.
-</p>
+     Ceará, Brazil. I'm interested in programming and I like interesting games that make me feel immersed in the game, have a considerable level of technical details, and don't have many bugs, like Red Dead Redemption 2.</p>
+
+I am looking for opportunities for learning and professional development in a company, where I can collaborate with the development team and contribute to the organization's objectives.
 
 <br/>
+<br/>
+<br/>
+
+<div align="center">
+
+## Skills
+
+<br/>
+<br/>
+ 
+</div>
+
+I will mention skills below that I think are worth highlighting
+
+- Programming: I did academic work in a team, which involved the Python and Java programming languages.
+
+- Teamwork: I collaborated with colleagues in academic activities, respecting and contributing to collective growth.
+
+- Mathematics Logic: I demonstrated logical and mathematical reasoning in mathematics Olympiads, in which I obtained three consecutive medals.
 
 - 🔥  Tech enthusiast
   
