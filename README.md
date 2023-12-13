@@ -10,8 +10,7 @@
 I am looking for opportunities for learning and professional development in a company, where I can collaborate with the development team and contribute to the organization's objectives.
 
 <br/>
-<br/>
-<br/>
+
 
 <div align="center">
 
