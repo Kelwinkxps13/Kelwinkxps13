@@ -71,3 +71,10 @@ I will mention skills below that I think are worth highlighting
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       
 </div>
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kelwinkxps13}/count.svg" /></p> 
+<br>
+</div>
