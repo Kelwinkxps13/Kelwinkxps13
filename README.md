@@ -1,6 +1,8 @@
 <h3>Hi there 👋</h3>
 <h3>Be welcome to my profile</h3>
 
+<h4> OBS: Todos os repositórios que estão em exibição, sao projetos de escola ou cursos </h4>
+
 <br/>
 
 <p>
