@@ -41,7 +41,7 @@ I am looking for opportunities for learning and professional development in a co
 <div align="center">  
   <!-- <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kelwinkxps13&theme=tokyonight" />
   <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kelwinkxps13&theme=tokyonight"/> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kelwinkxps13&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight&hide_border=true" alt="Kelwinkxps13" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kelwinkxps13&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Kelwinkxps13" />
   <img width=60% align="center" src="https://streak-stats.demolab.com?user=Kelwinkxps13&theme=tokyonight&hide_border=true" />
 </div>
 
