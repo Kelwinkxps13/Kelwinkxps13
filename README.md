@@ -1,8 +1,6 @@
 <h3>Hi there 👋</h3>
 <h3>Be welcome to my profile</h3>
 
-<h4> OBS: Todos os repositórios que estão em exibição, sao projetos de escola ou cursos </h4>
-
 <br/>
 
 <p>
@@ -16,26 +14,15 @@ I am looking for opportunities for learning and professional development in a co
 
 <div align="center">
 
-## Skills
+| Skills |
+| :-: |
+| Programming: I did academic work in a team, which involved the Python and Java programming languages. |
+| Teamwork: I collaborated with colleagues in academic activities, respecting and contributing to collective growth. |
+| Mathematics Logic: I demonstrated logical and mathematical reasoning in mathematics Olympiads, in which I obtained three consecutive medals. |
+| 🔥  Tech enthusiast |
+| 🔭 i´m currenctly studying on [Instituto Federal de Ciências e Tecnologia do Ceará - Campus Fortaleza](https://ifce.edu.br/fortaleza) |
 
-<br/>
-<br/>
- 
 </div>
-
-I will mention skills below that I think are worth highlighting
-
-- Programming: I did academic work in a team, which involved the Python and Java programming languages.
-
-- Teamwork: I collaborated with colleagues in academic activities, respecting and contributing to collective growth.
-
-- Mathematics Logic: I demonstrated logical and mathematical reasoning in mathematics Olympiads, in which I obtained three consecutive medals.
-
-- 🔥  Tech enthusiast
-  
-- 🔭 i´m currenctly studying on [Instituto Federal de Ciências e Tecnologia do Ceará - Campus Fortaleza](https://ifce.edu.br/fortaleza)
-
-- 🔭 I’m currently studying **Java**
 
 
 <br/>
